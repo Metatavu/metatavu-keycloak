@@ -1,0 +1,13 @@
+.login-pf body {
+  background: #000;
+}
+
+.login-pf button.pf-m-primary {
+  border-radius: 15px;
+  background: #000;
+  text-transform: uppercase;
+}
+
+.login-pf .pf-v5-c-form__label {
+  padding-bottom: 5px;
+}
